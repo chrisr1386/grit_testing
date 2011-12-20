@@ -7,7 +7,7 @@
     :welcome => {
       :index => {
         :header => "Welcome to Edison Nation",
-        :title => "Welcome To Edison Nation Vietnam!",
+        :title => "Welcome To Edison Nation Vietnam! Testing the changes!!",
         :first_box => {
           :p_1 => "<em>Edison Nation Vietnam</em> is a partnership between Edison Nation and Michael Diep, the first Vietnamese innovator to successfully introduce a product into the U.S. market.",
           :p_2 => "Michael’s Emery Cat success has inspired the Vietnamese community in the U.S. and his native Vietnam.",
